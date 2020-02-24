@@ -1,0 +1,164 @@
+Trace in file MODPRO.esp
+ 
+               *******************************************
+               *     CEDRAT                   MAGSOFT    *
+               * Grenoble, France            Troy, N.Y.  *
+               *                                         *
+               *             FLUX2D 10.3.1               *
+               *                                         *
+               *            Serial number 1              *
+               *                                         *
+               *     copyright (all rights reserved)     *
+               * ENSIEG - LABORATOIRE D'ELECTROTECHNIQUE *
+               * BP46 38402 Saint Martin d'Heres France  *
+               *                                         *
+               *         email : cedrat@cedrat.com       *
+               *******************************************
+ 
+Working directory \Diverse\Master\Proiect_motor\rezultate_oficiale2
+ 
+Problem name ?
+ANALIZA_DINAMICA
+ 
+Working directory \Diverse\Master\Proiect_motor\rezultate_oficiale2
+ 
+Name of initial "properties" ?
+ANALIZA_DINAMICA
+*** File ANALIZA_DINAMICA already contains more than the required data ***
+Do you want to continue ?
+  YES
+ 
+Working space type?
+Actual depth (on Z axis) of the object (mm)
+  98.8
+Source frequency (Hz) ?
+  40
+Selected region ?
+ 
+     DEFINITION OF BOUNDARY CONDITIONS
+NOTE : describe boundary conditions ANTICLOCKWISE
+   (EXCEPT for an internal hole which is described clockwise)
+Color codes. (solid square = reference point)
+   RED       : Dirichlet condition
+   YELLOW    : floating condition
+   MAGENTA   : cyclic condition
+   GREEN     : anticyclic condition
+   CYAN      : translation condition
+   TURQUOISE : periodic condition (A.exp(J.phi))
+Boundary condition type
+Please select the starting point
+Please select the ending point
+The selected line already contains Dirichlet points
+Are you sure of your selection ?
+  YES
+Do you want to define the values by a user's program ?
+  NO
+Flux through the rectangle : width = thickness of the model,
+ length = distance between null boundary and current point
+Flux magnitude (Weber peak value)
+  0
+Please select the starting point
+Boundary condition type
+Existing comment at the beginning of the file
+    e bun
+Do you want to change it ?
+  NO
+Circuit name : CIRCUIT
+Asynchronous machine
+Value of the slip ?
+  0.02
+Select a component
+  V1 :
+Select a value to be modified or validate
+Select a component
+  V2 :
+Select a value to be modified or validate
+Select a component
+  V3 :
+Select a value to be modified or validate
+Select a component
+  Resis4
+Select a value to be modified or validate
+Resistance value (Ohm)
+Select a value to be modified or validate
+Select a component
+  Resis5
+Select a value to be modified or validate
+Resistance value (Ohm)
+Select a value to be modified or validate
+Resistance value (Ohm)
+Select a value to be modified or validate
+Select a component
+  Resis24
+Select a value to be modified or validate
+Resistance value (Ohm)
+Select a value to be modified or validate
+Select a component
+  Resis25
+Select a value to be modified or validate
+Resistance value (Ohm)
+Select a value to be modified or validate
+Resistance value (Ohm)
+Select a value to be modified or validate
+Select a component
+  Resis26
+Select a value to be modified or validate
+Resistance value (Ohm)
+Select a value to be modified or validate
+Select a component
+  A :
+Definition mode for the resistance
+ 
+Select a value to be modified or validate
+Select a component
+  B :
+Definition mode for the resistance
+ 
+Select a value to be modified or validate
+Select a component
+  C :
+Definition mode for the resistance
+ 
+Select a value to be modified or validate
+Select a component
+  X :
+Definition mode for the resistance
+ 
+Select a value to be modified or validate
+Select a component
+  Y :
+Definition mode for the resistance
+ 
+Select a value to be modified or validate
+Select a component
+  Z :
+Definition mode for the resistance
+ 
+Select a value to be modified or validate
+Select a component
+  Induc27
+Select a value to be modified or validate
+Select a component
+  Induc28
+Select a value to be modified or validate
+Select a component
+  Induc29
+Select a value to be modified or validate
+Select a component
+  Squirrel_cage
+Select a value to be modified or validate
+Ring resistance (Ohm)
+Select a value to be modified or validate
+Ring resistance (Ohm)
+Select a value to be modified or validate
+Ring resistance (Ohm)
+Select a value to be modified or validate
+Inductancy of the ring (Henry)
+Select a value to be modified or validate
+Select a component
+Numerical memory size reached 1926 kbytes
+Character memory size reached 62 kbytes
+ 
+Working directory \Diverse\Master\Proiect_motor\rezultate_oficiale2
+ 
+Problem name ?

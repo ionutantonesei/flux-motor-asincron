@@ -1,0 +1,73 @@
+  
+                *******************************************
+                *     CEDRAT                   MAGSOFT    *
+                * Grenoble, France            Troy, N.Y.  *
+                *                                         *
+                *             FLUX2D 10.3.1               *
+                *                                         *
+                *            Serial number 1              *
+                *                                         *
+                *     copyright (all rights reserved)     *
+                * ENSIEG - LABORATOIRE D'ELECTROTECHNIQUE *
+                * BP46 38402 Saint Martin d'Heres France  *
+                *                                         *
+                *         email : cedrat@cedrat.com       *
+                *******************************************
+
+Problem name
+D:\Master\Flux\Proiect_Livadaru\rezultate_oficiale\ANALIZA_STATICA
+
+Created :01/12/20 20:03:46
+
+ Size of the matrix :
+   Number of lines = 10423
+   Average length  = 11
+ 
+ Integration done, equations assembled
+ Equations solved
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 1
+ Relative variation with respect to the previous iteration 0.329641
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 2
+ Relative variation with respect to the previous iteration 0.113207
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 3
+ Relative variation with respect to the previous iteration 0.057216
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 4
+ Relative variation with respect to the previous iteration 0.033785
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 5
+ Relative variation with respect to the previous iteration 0.013633
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 6
+ Relative variation with respect to the previous iteration 0.003462
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 7
+ Relative variation with respect to the previous iteration 0.001207
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 8
+ Relative variation with respect to the previous iteration 0.637E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 9
+ Relative variation with respect to the previous iteration 0.278E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 10
+ Relative variation with respect to the previous iteration 0.151E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 11
+ Relative variation with respect to the previous iteration 0.783E-04
+ 
+Status : computation finished
