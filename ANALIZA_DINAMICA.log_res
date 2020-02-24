@@ -1,0 +1,57 @@
+  
+                *******************************************
+                *     CEDRAT                   MAGSOFT    *
+                * Grenoble, France            Troy, N.Y.  *
+                *                                         *
+                *             FLUX2D 10.3.1               *
+                *                                         *
+                *            Serial number 1              *
+                *                                         *
+                *     copyright (all rights reserved)     *
+                * ENSIEG - LABORATOIRE D'ELECTROTECHNIQUE *
+                * BP46 38402 Saint Martin d'Heres France  *
+                *                                         *
+                *         email : cedrat@cedrat.com       *
+                *******************************************
+
+Problem name
+D:\Diverse\Master\Proiect_motor\rezultate_oficiale2\ANALIZA_DINAMICA
+
+Created :02/23/20 16:08:36
+
+ Size of the matrix :
+   Number of lines = 10468
+   Average length  = 12
+ 
+ Integration done, equations assembled
+ Equations solved
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 1
+ Relative variation with respect to the previous iteration 0.966279
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 2
+ Relative variation with respect to the previous iteration 0.245631
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 3
+ Relative variation with respect to the previous iteration 0.030419
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 4
+ Relative variation with respect to the previous iteration 0.006116
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 5
+ Relative variation with respect to the previous iteration 0.001256
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 6
+ Relative variation with respect to the previous iteration 0.264E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 7
+ Relative variation with respect to the previous iteration 0.562E-04
+ 
+Status : computation finished
