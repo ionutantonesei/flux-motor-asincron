@@ -17,7 +17,7 @@
 Problem name
 C:\Users\tuten_o3qdme6\Documents\flux-motor-asincron\ANALIZA_DINAMICA
 
-Created :02/27/20 15:55:20
+Created :02/27/20 16:00:06
 
  Size of the matrix :
    Number of lines = 10468
@@ -28,54 +28,54 @@ Created :02/27/20 15:55:20
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.968197
+ Relative variation with respect to the previous iteration 0.9572
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.429777
+ Relative variation with respect to the previous iteration 0.300102
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.122287
+ Relative variation with respect to the previous iteration 0.099218
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.055361
+ Relative variation with respect to the previous iteration 0.047496
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.024981
+ Relative variation with respect to the previous iteration 0.022661
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.011505
+ Relative variation with respect to the previous iteration 0.010988
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.005337
+ Relative variation with respect to the previous iteration 0.005364
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.002492
+ Relative variation with respect to the previous iteration 0.002635
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.00117
+ Relative variation with respect to the previous iteration 0.001301
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.552E-03
+ Relative variation with respect to the previous iteration 0.646E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.262E-03
+ Relative variation with respect to the previous iteration 0.322E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.125E-03
+ Relative variation with respect to the previous iteration 0.161E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.596E-04
+ Relative variation with respect to the previous iteration 0.810E-04
  
 Status : computation finished
