@@ -1,5 +1,5 @@
-e bun                                      10.30 10.30 10.30  3  2 10
-02/27/20 16:00:08            : file writing date
+e bun                                      10.30 10.30 10.30  3  2 13
+02/28/20 11:45:53            : file writing date
 MASINA_ASINCRONA             : name of the geometrical data file
 CIRCUIT                      : name of the circuit data file
                              : name of the output file (mag. or elec.)
@@ -27137,76 +27137,70 @@ CIRCUIT                      : name of the circuit data file
     0.000000       1.000000    
  Region    24  A                                         
        5       0       0       0       0       0       0       0       0
-       0       0       0       0       0       0       0       0       5
+       0       0       0       0       0       0       0       0       0
        0       0
      374       0       0       0       0       0       0       0       0
        0       0       0       0       0       0       0       0       0
        0       0
  Current defined by external circuit     
     7.000000       0.000000    
-    12.00000       257.0000       1.000000       1.000000    
+    12.00000       260.0000       1.000000       1.000000    
     1.000000    
- Region of the asynchronous rotor        
  Region    25  X                                         
        5       0       0       0       0       0       0       0       0
-       0       0       0       0       0       0       0       0       5
+       0       0       0       0       0       0       0       0       0
        0       0
      381       0       0       0       0       0       0       0       0
        0       0       0       0       0       0       0       0       0
        0       0
  Current defined by external circuit     
     7.000000       0.000000    
-    15.00000       257.0000       1.000000       1.000000    
+    15.00000       260.0000       1.000000       1.000000    
     1.000000    
- Region of the asynchronous rotor        
  Region    26  B                                         
        5       0       0       0       0       0       0       0       0
-       0       0       0       0       0       0       0       0       5
+       0       0       0       0       0       0       0       0       0
        0       0
      388       0       0       0       0       0       0       0       0
        0       0       0       0       0       0       0       0       0
        0       0
  Current defined by external circuit     
     7.000000       0.000000    
-    13.00000       257.0000       1.000000       1.000000    
+    13.00000       260.0000       1.000000       1.000000    
     1.000000    
- Region of the asynchronous rotor        
  Region    27  Y                                         
        5       0       0       0       0       0       0       0       0
-       0       0       0       0       0       0       0       0       5
+       0       0       0       0       0       0       0       0       0
        0       0
      395       0       0       0       0       0       0       0       0
        0       0       0       0       0       0       0       0       0
        0       0
  Current defined by external circuit     
     7.000000       0.000000    
-    16.00000       257.0000       1.000000       1.000000    
+    16.00000       260.0000       1.000000       1.000000    
     1.000000    
- Region of the asynchronous rotor        
  Region    28  C                                         
        5       0       0       0       0       0       0       0       0
-       0       0       0       0       0       0       0       0       5
+       0       0       0       0       0       0       0       0       0
        0       0
      402       0       0       0       0       0       0       0       0
        0       0       0       0       0       0       0       0       0
        0       0
  Current defined by external circuit     
     7.000000       0.000000    
-    14.00000       257.0000       1.000000       1.000000    
+    14.00000       260.0000       1.000000       1.000000    
     1.000000    
- Region of the asynchronous rotor        
  Region    29  Z                                         
        5       0       0       0       0       0       0       0       0
-       0       0       0       0       0       0       0       0       5
+       0       0       0       0       0       0       0       0       0
        0       0
      409       0       0       0       0       0       0       0       0
        0       0       0       0       0       0       0       0       0
        0       0
  Current defined by external circuit     
     7.000000       0.000000    
-    17.00000       257.0000       1.000000       1.000000    
+    17.00000       260.0000       1.000000       1.000000    
     1.000000    
- Region of the asynchronous rotor        
  Region    30  JUG_STATORIC          FLU_M1000-65DNR     
        0       3       0       0       0       0       0       0       0
        0       0       0       0       0       0       0       0       0

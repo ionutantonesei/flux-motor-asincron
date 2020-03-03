@@ -1,3 +1,4 @@
+  3.9999999E-02  -10.00000       19.20000    
 Trace in file MODPRO.esp
  
                *******************************************
@@ -15,19 +16,16 @@ Trace in file MODPRO.esp
                *         email : cedrat@cedrat.com       *
                *******************************************
  
-Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
+Working directory \Master\Flux\flux-motor-asincron-master
  
 Problem name ?
-ANALIZA_DINAMICA
+Problem name ?
+    TEST_1
  
-Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
+Working directory \Master\Flux\flux-motor-asincron-master
  
 Name of initial "properties" ?
 ANALIZA_DINAMICA
-*** File ANALIZA_DINAMICA already contains more than the required data ***
-Do you want to continue ?
-  YES
- 
 Working space type?
 Actual depth (on Z axis) of the object (mm)
   98.8
@@ -68,81 +66,14 @@ Asynchronous machine
 Value of the slip ?
   0.02
 Select a component
-  V1 :
-Select a value to be modified or validate
-Select a component
-  V2 :
-Select a value to be modified or validate
-Select a component
-  V3 :
-Select a value to be modified or validate
-Select a component
-  Resis4
-Select a value to be modified or validate
-Select a component
-  Resis5
-Select a value to be modified or validate
-Select a component
-  A :
-Definition mode for the resistance
- 
-Select a value to be modified or validate
-Select a component
-  B :
-Definition mode for the resistance
- 
-Select a value to be modified or validate
-Select a component
-  C :
-Definition mode for the resistance
- 
-Select a value to be modified or validate
-Select a component
-  X :
-Definition mode for the resistance
- 
-Select a value to be modified or validate
-Select a component
-  Y :
-Definition mode for the resistance
- 
-Select a value to be modified or validate
-Select a component
-  Z :
-Definition mode for the resistance
- 
-Select a value to be modified or validate
-Select a component
-  Resis24
-Select a value to be modified or validate
-Select a component
-  Resis25
-Select a value to be modified or validate
-Select a component
-  Resis26
-Select a value to be modified or validate
-Select a component
-  Induc27
-Select a value to be modified or validate
-Self induction coefficient (Henry)
-Select a value to be modified or validate
-Select a component
-  Induc28
-Select a value to be modified or validate
-Self induction coefficient (Henry)
-Select a value to be modified or validate
-Select a component
-  Induc29
-Select a value to be modified or validate
-Self induction coefficient (Henry)
-Select a value to be modified or validate
-Select a component
   Squirrel_cage
+Select a value to be modified or validate
+Ring resistance (Ohm)
 Select a value to be modified or validate
 Select a component
 Numerical memory size reached 1926 kbytes
 Character memory size reached 62 kbytes
  
-Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
+Working directory \Master\Flux\flux-motor-asincron-master
  
 Problem name ?
