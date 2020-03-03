@@ -1,4 +1,3 @@
-  3.9999999E-02  -10.00000       19.20000    
 Trace in file MODPRO.esp
  
                *******************************************
@@ -16,16 +15,19 @@ Trace in file MODPRO.esp
                *         email : cedrat@cedrat.com       *
                *******************************************
  
-Working directory \Master\Flux\flux-motor-asincron-master
+Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
 Problem name ?
-Problem name ?
-    TEST_1
+TEST2
  
-Working directory \Master\Flux\flux-motor-asincron-master
+Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
 Name of initial "properties" ?
 ANALIZA_DINAMICA
+*** File TEST2 already exists ***
+Do you want to continue ?
+  YES
+ 
 Working space type?
 Actual depth (on Z axis) of the object (mm)
   98.8
@@ -44,19 +46,6 @@ Color codes. (solid square = reference point)
    CYAN      : translation condition
    TURQUOISE : periodic condition (A.exp(J.phi))
 Boundary condition type
-Please select the starting point
-Please select the ending point
-The selected line already contains Dirichlet points
-Are you sure of your selection ?
-  YES
-Do you want to define the values by a user's program ?
-  NO
-Flux through the rectangle : width = thickness of the model,
- length = distance between null boundary and current point
-Flux magnitude (Weber peak value)
-  0
-Please select the starting point
-Boundary condition type
 Existing comment at the beginning of the file
     e bun
 Do you want to change it ?
@@ -70,10 +59,12 @@ Select a component
 Select a value to be modified or validate
 Ring resistance (Ohm)
 Select a value to be modified or validate
+Inductancy of the ring (Henry)
+Select a value to be modified or validate
 Select a component
 Numerical memory size reached 1926 kbytes
 Character memory size reached 62 kbytes
  
-Working directory \Master\Flux\flux-motor-asincron-master
+Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
 Problem name ?

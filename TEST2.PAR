@@ -1,0 +1,3075 @@
+FLUX2D 10.3.1  0
+# Problem name
+TEST2
+10.3
+03/03/20 11:01:11
+# Number of groupe
+  128
+# Geometrical parameter 1
+ST                   :
+# Kind of groupe
+  1
+# Possible link
+0
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Geometrical parameter 1
+# Lower value
+  0
+# Upper value
+  0
+# Reference value
+  0
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Geometrical parameter 2
+RT                   :
+# Kind of groupe
+  1
+# Possible link
+0
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Geometrical parameter 2
+# Lower value
+  0
+# Upper value
+  0
+# Reference value
+  0
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 3  Property 3
+R1 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 4  Property 3
+R2 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 5  Property 3
+R3 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 6  Property 3
+R4 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 7  Property 3
+R5 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 8  Property 3
+R6 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 9  Property 3
+R7 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 10  Property 3
+R8 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 11 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 11  Property 3
+R9 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 12  Property 3
+R10 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 13 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 13  Property 3
+R11 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 14  Property 3
+R12 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 15 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 15  Property 3
+R13 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 16  Property 3
+R14 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 17  Property 3
+R15 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 18  Property 3
+R16 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+19 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 19  Property 3
+R17 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+18 20 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 20  Property 3
+R18 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+18 19 21 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 21  Property 3
+R19 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+18 19 20 22
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 22  Property 3
+R20 : Resistivity, scalar constant
+# Kind of groupe
+  2
+# Possible link
+19 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+18 19 20 21
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+resistivity (ohm.m)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  3.87e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 24  Property 1
+A : coil
+# Kind of groupe
+  3
+# Possible link
+5 24 25 26 27 28
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Number of turn
+# Lower value
+  260
+# Upper value
+  260
+# Reference value
+  260
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 25  Property 1
+X : coil
+# Kind of groupe
+  3
+# Possible link
+5 23 25 26 27 28
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Number of turn
+# Lower value
+  260
+# Upper value
+  260
+# Reference value
+  260
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 26  Property 1
+B : coil
+# Kind of groupe
+  3
+# Possible link
+5 23 24 26 27 28
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Number of turn
+# Lower value
+  260
+# Upper value
+  260
+# Reference value
+  260
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 27  Property 1
+Y : coil
+# Kind of groupe
+  3
+# Possible link
+5 23 24 25 27 28
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Number of turn
+# Lower value
+  260
+# Upper value
+  260
+# Reference value
+  260
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 28  Property 1
+C : coil
+# Kind of groupe
+  3
+# Possible link
+5 23 24 25 26 28
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Number of turn
+# Lower value
+  260
+# Upper value
+  260
+# Reference value
+  260
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 29  Property 1
+Z : coil
+# Kind of groupe
+  3
+# Possible link
+5 23 24 25 26 27
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Number of turn
+# Lower value
+  260
+# Upper value
+  260
+# Reference value
+  260
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 1  Type 1
+V1 : voltage source
+# Kind of groupe
+  4
+# Possible link
+2 30 31
+# Number of component of the groupe
+  2
+# Component 1  of the groupe
+Value (Volt rms)
+# Lower value
+  0
+# Upper value
+  INFINI
+# Reference value
+  500
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 2  of the groupe
+Phase (degrees)
+# Lower value
+  -180
+# Upper value
+  180
+# Reference value
+  0
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 2  Type 1
+V2 : voltage source
+# Kind of groupe
+  4
+# Possible link
+2 29 31
+# Number of component of the groupe
+  2
+# Component 1  of the groupe
+Value (Volt rms)
+# Lower value
+  0
+# Upper value
+  INFINI
+# Reference value
+  500
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 2  of the groupe
+Phase (degrees)
+# Lower value
+  -180
+# Upper value
+  180
+# Reference value
+  120
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 3  Type 1
+V3 : voltage source
+# Kind of groupe
+  4
+# Possible link
+2 29 30
+# Number of component of the groupe
+  2
+# Component 1  of the groupe
+Value (Volt rms)
+# Lower value
+  0
+# Upper value
+  INFINI
+# Reference value
+  500
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 2  of the groupe
+Phase (degrees)
+# Lower value
+  -180
+# Upper value
+  180
+# Reference value
+  -120
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 4  Type 5
+Resis4 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 33 34 35 36 46 47 50 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  10000
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 5  Type 5
+Resis5 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 34 35 36 46 47 50 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  10000
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 6  Type 5
+Resis24 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 35 36 46 47 50 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.263
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 7  Type 5
+Resis25 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 36 46 47 50 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.263
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 8  Type 5
+Resis26 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 46 47 50 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.263
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 9  Type 6
+Induc27 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 38 39 48 49 52 53 56 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.011
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 10  Type 6
+Induc28 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 39 48 49 52 53 56 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.011
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 11  Type 6
+Induc29 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 48 49 52 53 56 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.011
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 12  Type 3
+A : coil
+# Kind of groupe
+  4
+# Possible link
+5 41 42 43 44 45
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.78
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 13  Type 3
+B : coil
+# Kind of groupe
+  4
+# Possible link
+5 40 42 43 44 45
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.78
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 14  Type 3
+C : coil
+# Kind of groupe
+  4
+# Possible link
+5 40 41 43 44 45
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.78
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 15  Type 3
+X : coil
+# Kind of groupe
+  4
+# Possible link
+5 40 41 42 44 45
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.78
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 16  Type 3
+Y : coil
+# Kind of groupe
+  4
+# Possible link
+5 40 41 42 43 45
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.78
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 17  Type 3
+Z : coil
+# Kind of groupe
+  4
+# Possible link
+5 40 41 42 43 44
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  0.78
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 18  Type 5
+Rah18 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 47 50 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 19  Type 5
+Ral19 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 50 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 20  Type 6
+Lah20 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 49 52 53 56 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 21  Type 6
+Lal21 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 52 53 56 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 22  Type 5
+Rah22 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 51 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 23  Type 5
+Ral23 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 54 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 24  Type 6
+Lah24 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 53 56 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 25  Type 6
+Lal25 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 56 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 26  Type 5
+Rah26 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 55 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 27  Type 5
+Ral27 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 58 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 28  Type 6
+Lah28 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 57 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 29  Type 6
+Lal29 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 60 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 30  Type 5
+Rah30 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 59 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 31  Type 5
+Ral31 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 62 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 32  Type 6
+Lah32 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 61 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 33  Type 6
+Lal33 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 64 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 34  Type 5
+Rah34 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 63 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 35  Type 5
+Ral35 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 66
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 36  Type 6
+Lah36 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 65 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 37  Type 6
+Lal37 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 68 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 38  Type 5
+Rah38 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+67 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 39  Type 5
+Ral39 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 70 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 40  Type 6
+Lah40 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 69 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 41  Type 6
+Lal41 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 72
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 42  Type 5
+Rah42 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 71 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 43  Type 5
+Ral43 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 74 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 44  Type 6
+Lah44 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+73 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 45  Type 6
+Lal45 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 76 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 46  Type 5
+Rah46 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 75 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 47  Type 5
+Ral47 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 78 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 48  Type 6
+Lah48 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 77 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 49  Type 6
+Lal49 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 80 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 50  Type 5
+Rah50 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 79 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 51  Type 5
+Ral51 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 82 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 52  Type 6
+Lah52 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 81 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 53  Type 6
+Lal53 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 84 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 54  Type 5
+Rah54 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 83 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 55  Type 5
+Ral55 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 86 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 56  Type 6
+Lah56 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 85 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 57  Type 6
+Lal57 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 88 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 58  Type 5
+Rah58 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 87 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 59  Type 5
+Ral59 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 90 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 60  Type 6
+Lah60 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 89 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 61  Type 6
+Lal61 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 92 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 62  Type 5
+Rah62 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 91 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 63  Type 5
+Ral63 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 94 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 64  Type 6
+Lah64 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 93 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 65  Type 6
+Lal65 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 96 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 66  Type 5
+Rah66 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 95
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 67  Type 5
+Ral67 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+98 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 68  Type 6
+Lah68 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 97 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 69  Type 6
+Lal69 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 100 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 70  Type 5
+Rah70 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 99 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 71  Type 5
+Ral71 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 102 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 72  Type 6
+Lah72 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 101
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 73  Type 6
+Lal73 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+104 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 74  Type 5
+Rah74 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 103 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 75  Type 5
+Ral75 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 106 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 76  Type 6
+Lah76 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 105 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 77  Type 6
+Lal77 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 108 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 78  Type 5
+Rah78 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 107 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 79  Type 5
+Ral79 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 110 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 80  Type 6
+Lah80 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 109 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 81  Type 6
+Lal81 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 112 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 82  Type 5
+Rah82 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 111 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 83  Type 5
+Ral83 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 110 114 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 84  Type 6
+Lah84 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 113 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 85  Type 6
+Lal85 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 112 116 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 86  Type 5
+Rah86 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 110 111 115 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 87  Type 5
+Ral87 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 110 111 114 118 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 88  Type 6
+Lah88 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 112 113 117 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 89  Type 6
+Lal89 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 112 113 116 120 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 90  Type 5
+Rah90 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 110 111 114 115 119 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 91  Type 5
+Ral91 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 110 111 114 115 118 122 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 92  Type 6
+Lah92 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 112 113 116 117 121 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 93  Type 6
+Lal93 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 112 113 116 117 120 124 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 94  Type 5
+Rah94 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 110 111 114 115 118 119 123
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 95  Type 5
+Ral95 : resistor
+# Kind of groupe
+  4
+# Possible link
+44 32 33 34 35 36 46 47 50 51 54 55 58 59 62 63
+66 67 70 71 74 75 78 79 82 83 86 87 90 91 94
+95 98 99 102 103 106 107 110 111 114 115 118 119 122
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Resistance value (Ohm)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  2.5e-006
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 96  Type 6
+Lah96 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 112 113 116 117 120 121 125
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Component 97  Type 6
+Lal97 : inductance
+# Kind of groupe
+  4
+# Possible link
+42 37 38 39 48 49 52 53 56 57 60 61 64 65 68 69
+72 73 76 77 80 81 84 85 88 89 92 93 96 97 100
+101 104 105 108 109 112 113 116 117 120 121 124
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Self induction coefficient (Henry)
+# Lower value
+  1e-030
+# Upper value
+  INFINI
+# Reference value
+  1e-008
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 23  Property 1
+INTREFIER : rotating air gap
+# Kind of groupe
+  7
+# Possible link
+0
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Initial position of rotor (degre)
+# Lower value
+  -180
+# Upper value
+  180
+# Reference value
+  0
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 0  Property 3
+F : frequency of source
+# Kind of groupe
+  7
+# Possible link
+0
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Value of frequency (hertz)
+# Lower value
+  1e-010
+# Upper value
+  INFINI
+# Reference value
+  40
+# Variation direction
+  0
+# Number of interval
+  0   0
+# Number of formula
+  0
+# Region 0  Property 5
+Slip : value of the slip
+# Kind of groupe
+  7
+# Possible link
+0
+# Number of component of the groupe
+  1
+# Component 1  of the groupe
+Value of the slip
+# Lower value
+  -1
+# Upper value
+  2
+# Reference value
+  0.02
+# Variation direction
+  0
+# Number of interval
+  1   3
+# Number of formula
+  0
+#Intervalle 1
+# Method of variation
+3
+# Bound 1
+0.001
+# Bound 2
+0.999
+# Number of values in the list
+14
+# List of values
+            0.001            0.01            0.02            0.04
+             0.06            0.08             0.1            0.12
+             0.15             0.2             0.3             0.5
+              0.7           0.999
