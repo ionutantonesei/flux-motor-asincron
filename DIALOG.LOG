@@ -46,6 +46,19 @@ Color codes. (solid square = reference point)
    CYAN      : translation condition
    TURQUOISE : periodic condition (A.exp(J.phi))
 Boundary condition type
+Please select the starting point
+Please select the ending point
+The selected line already contains Dirichlet points
+Are you sure of your selection ?
+  YES
+Do you want to define the values by a user's program ?
+  NO
+Flux through the rectangle : width = thickness of the model,
+ length = distance between null boundary and current point
+Flux magnitude (Weber peak value)
+  0
+Please select the starting point
+Boundary condition type
 Existing comment at the beginning of the file
     e bun
 Do you want to change it ?
