@@ -2,7 +2,7 @@ FLUX2D 10.3.1  0
 # Problem name
 TEST2
 10.3
-03/07/20 09:35:55
+03/15/20 09:19:58
 # Number of groupe
   126
 # Region 3  Property 3
@@ -912,7 +912,7 @@ Resistance (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.78
+  0.156
 # Variation direction
   0
 # Number of interval
@@ -934,7 +934,7 @@ Resistance (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.78
+  0.156
 # Variation direction
   0
 # Number of interval
@@ -956,7 +956,7 @@ Resistance (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.78
+  0.156
 # Variation direction
   0
 # Number of interval
@@ -978,7 +978,7 @@ Resistance (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.78
+  0.156
 # Variation direction
   0
 # Number of interval
@@ -1000,7 +1000,7 @@ Resistance (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.78
+  0.156
 # Variation direction
   0
 # Number of interval
@@ -1022,7 +1022,7 @@ Resistance (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.78
+  0.156
 # Variation direction
   0
 # Number of interval
@@ -1046,7 +1046,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1070,7 +1070,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1094,7 +1094,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1118,7 +1118,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1142,7 +1142,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1166,7 +1166,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1190,7 +1190,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1214,7 +1214,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1238,7 +1238,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1262,7 +1262,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1286,7 +1286,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1310,7 +1310,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1334,7 +1334,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1358,7 +1358,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1382,7 +1382,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1406,7 +1406,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1430,7 +1430,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1454,7 +1454,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1478,7 +1478,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1502,7 +1502,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1526,7 +1526,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1550,7 +1550,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1574,7 +1574,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1598,7 +1598,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1622,7 +1622,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1646,7 +1646,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1670,7 +1670,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1694,7 +1694,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1718,7 +1718,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1742,7 +1742,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1766,7 +1766,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1790,7 +1790,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1814,7 +1814,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1838,7 +1838,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1862,7 +1862,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1886,7 +1886,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1910,7 +1910,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1934,7 +1934,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -1958,7 +1958,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -1982,7 +1982,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2006,7 +2006,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2030,7 +2030,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2054,7 +2054,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2078,7 +2078,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2102,7 +2102,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2126,7 +2126,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2150,7 +2150,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2174,7 +2174,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2198,7 +2198,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2222,7 +2222,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2246,7 +2246,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2270,7 +2270,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2294,7 +2294,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2318,7 +2318,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2342,7 +2342,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2366,7 +2366,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2390,7 +2390,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2414,7 +2414,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2438,7 +2438,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2462,7 +2462,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2486,7 +2486,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2510,7 +2510,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2534,7 +2534,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2558,7 +2558,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2582,7 +2582,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2606,7 +2606,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2630,7 +2630,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2654,7 +2654,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2678,7 +2678,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2702,7 +2702,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2726,7 +2726,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2750,7 +2750,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2774,7 +2774,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2798,7 +2798,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2822,7 +2822,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2846,7 +2846,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2870,7 +2870,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2894,7 +2894,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  2.5e-006
+  3.5e-006
 # Variation direction
   0
 # Number of interval
@@ -2918,7 +2918,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval
@@ -2942,7 +2942,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  3e-008
+  7e-008
 # Variation direction
   0
 # Number of interval

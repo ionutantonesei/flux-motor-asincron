@@ -64,19 +64,186 @@ Existing comment at the beginning of the file
 Do you want to change it ?
   NO
 Circuit name : CIRCUIT
-Asynchronous machine
+ 
+Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
+ 
+Circuit name ?
+CIRCUIT
+WARNING : file .CID is newer than file .CIF !!!
+May be they are not compatible !!!
+Do you want to change the name ?
+  NO
+Data for FLUX2D written into file CIRCUIT.CIF
+Is it an asynchronous machine ?
+  YES
 Value of the slip ?
   0.02
+Select a region "coil" (or "solid conductor")
+                   R1
+Select a coil or a solid conductor
+                             R1                                           Bar98
+Select a region "coil" (or "solid conductor")
+                   R2
+Select a coil or a solid conductor
+                             R2                                           Bar99
+Select a region "coil" (or "solid conductor")
+                   R3
+Select a coil or a solid conductor
+                             R3                                          Bar100
+Select a region "coil" (or "solid conductor")
+                   R4
+Select a coil or a solid conductor
+                             R4                                          Bar101
+Select a region "coil" (or "solid conductor")
+                   R5
+Select a coil or a solid conductor
+                             R5                                          Bar102
+Select a region "coil" (or "solid conductor")
+                   R6
+Select a coil or a solid conductor
+                             R6                                          Bar103
+Select a region "coil" (or "solid conductor")
+                   R7
+Select a coil or a solid conductor
+                             R7                                          Bar104
+Select a region "coil" (or "solid conductor")
+                   R8
+Select a coil or a solid conductor
+                             R8                                          Bar105
+Select a region "coil" (or "solid conductor")
+                   R9
+Select a coil or a solid conductor
+                             R9                                          Bar106
+Select a region "coil" (or "solid conductor")
+                   R10
+Select a coil or a solid conductor
+                             R10                                         Bar107
+Select a region "coil" (or "solid conductor")
+                   R11
+Select a coil or a solid conductor
+                             R11                                         Bar108
+Select a region "coil" (or "solid conductor")
+                   R12
+Select a coil or a solid conductor
+                             R12                                         Bar109
+Select a region "coil" (or "solid conductor")
+                   R13
+Select a coil or a solid conductor
+                             R13                                         Bar110
+Select a region "coil" (or "solid conductor")
+                   R14
+Select a coil or a solid conductor
+                             R14                                         Bar111
+Select a region "coil" (or "solid conductor")
+                   R15
+Select a coil or a solid conductor
+                             R15                                         Bar112
+Select a region "coil" (or "solid conductor")
+                   R16
+Select a coil or a solid conductor
+                             R16                                         Bar113
+Select a region "coil" (or "solid conductor")
+                   R17
+Select a coil or a solid conductor
+                             R17                                         Bar114
+Select a region "coil" (or "solid conductor")
+                   R18
+Select a coil or a solid conductor
+                             R18                                         Bar115
+Select a region "coil" (or "solid conductor")
+                   R19
+Select a coil or a solid conductor
+                             R19                                         Bar116
+Select a region "coil" (or "solid conductor")
+                   R20
+Select a coil or a solid conductor
+                             R20                                         Bar117
+Select a region "coil" (or "solid conductor")
+Select a region "coil" (or "solid conductor")
+                   A
+Select a coil or a solid conductor
+                             A                                                A
+Select a region "coil" (or "solid conductor")
+                   X
+Select a coil or a solid conductor
+                             X                                                X
+Select a region "coil" (or "solid conductor")
+                   B
+Select a coil or a solid conductor
+                             B                                                B
+Select a region "coil" (or "solid conductor")
+                   Y
+Select a coil or a solid conductor
+                             Y                                                Y
+Select a region "coil" (or "solid conductor")
+                   C
+Select a coil or a solid conductor
+                             C                                                C
+Select a region "coil" (or "solid conductor")
+                   Z
+Select a coil or a solid conductor
+                             Z                                                Z
+Select a region "coil" (or "solid conductor")
 Select a component
-  Squirrel_cage
-Select a value to be modified or validate
-Ring resistance (Ohm)
-Select a value to be modified or validate
-Inductancy of the ring (Henry)
+  V1 :
+Value (Volt rms)
+Phase (degrees)
 Select a value to be modified or validate
 Select a component
-Numerical memory size reached 1926 kbytes
-Character memory size reached 62 kbytes
+  V2 :
+Value (Volt rms)
+Phase (degrees)
+Select a value to be modified or validate
+Select a component
+  V3 :
+Value (Volt rms)
+Phase (degrees)
+Select a value to be modified or validate
+Select a component
+  A :
+Definition mode for the resistance
+ 
+Number of turns  of the coil
+Value of the resistance (Ohm)
+Select a value to be modified or validate
+Select a component
+  B :
+Definition mode for the resistance
+ 
+Number of turns  of the coil
+Value of the resistance (Ohm)
+Select a value to be modified or validate
+Select a component
+  C :
+Definition mode for the resistance
+ 
+Number of turns  of the coil
+Value of the resistance (Ohm)
+Select a value to be modified or validate
+Select a component
+  X :
+Definition mode for the resistance
+ 
+Number of turns  of the coil
+Value of the resistance (Ohm)
+Select a value to be modified or validate
+Select a component
+  Y :
+Definition mode for the resistance
+ 
+Number of turns  of the coil
+Value of the resistance (Ohm)
+Select a value to be modified or validate
+Select a component
+  Z :
+Definition mode for the resistance
+ 
+Number of turns  of the coil
+Value of the resistance (Ohm)
+Select a value to be modified or validate
+Select a component
+Numerical memory size reached 2065 kbytes
+Character memory size reached 163 kbytes
  
 Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
