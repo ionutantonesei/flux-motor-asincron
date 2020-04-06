@@ -17,84 +17,92 @@
 Problem name
 C:\Users\tuten_o3qdme6\Documents\flux-motor-asincron\TEST2
 
-Created :03/15/20 09:20:00
+Created :04/06/20 07:26:37
 
  Size of the matrix :
    Number of lines = 10468
    Average length  = 12
  
-      Computation 1 / 14
+      Computation 1 / 16
  
 Computation of the solution without parameters
-Value of the parameter Slip : value of the slip =   0.02  
+Value of the parameter Slip : value of the slip =   0.03  
  Integration done, equations assembled
  Equations solved
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.035072
+ Relative variation with respect to the previous iteration 0.033951
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.004968
+ Relative variation with respect to the previous iteration 0.005652
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.002312
+ Relative variation with respect to the previous iteration 0.002422
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.001074
+ Relative variation with respect to the previous iteration 0.001161
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.645E-03
+ Relative variation with respect to the previous iteration 0.718E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.466E-03
+ Relative variation with respect to the previous iteration 0.529E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.362E-03
+ Relative variation with respect to the previous iteration 0.418E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.296E-03
+ Relative variation with respect to the previous iteration 0.345E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.250E-03
+ Relative variation with respect to the previous iteration 0.293E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.215E-03
+ Relative variation with respect to the previous iteration 0.252E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.187E-03
+ Relative variation with respect to the previous iteration 0.220E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.163E-03
+ Relative variation with respect to the previous iteration 0.192E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.144E-03
+ Relative variation with respect to the previous iteration 0.169E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.126E-03
+ Relative variation with respect to the previous iteration 0.149E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.112E-03
+ Relative variation with respect to the previous iteration 0.131E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.986E-04
+ Relative variation with respect to the previous iteration 0.116E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 17
+ Relative variation with respect to the previous iteration 0.102E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 18
+ Relative variation with respect to the previous iteration 0.905E-04
  
-      Computation 2 / 14
+      Computation 2 / 16
  
 Slip : value of the slip
 Value of the parameter Slip : value of the slip =   0.001  
@@ -103,7 +111,7 @@ Value of the parameter Slip : value of the slip =   0.001
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.035289
+ Relative variation with respect to the previous iteration 0.035287
  Integration done, equations assembled
  Equations solved
  Iteration number 2
@@ -111,7 +119,7 @@ Value of the parameter Slip : value of the slip =   0.001
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.002151
+ Relative variation with respect to the previous iteration 0.00215
  Integration done, equations assembled
  Equations solved
  Iteration number 4
@@ -153,7 +161,7 @@ Value of the parameter Slip : value of the slip =   0.001
  Iteration number 13
  Relative variation with respect to the previous iteration 0.890E-04
  
-      Computation 3 / 14
+      Computation 3 / 16
  
 Value of the parameter Slip : value of the slip =   0.01  
  Integration done, equations assembled
@@ -161,15 +169,15 @@ Value of the parameter Slip : value of the slip =   0.01
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.035207
+ Relative variation with respect to the previous iteration 0.035048
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.004572
+ Relative variation with respect to the previous iteration 0.004568
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.002203
+ Relative variation with respect to the previous iteration 0.0022
  Integration done, equations assembled
  Equations solved
  Iteration number 4
@@ -181,11 +189,11 @@ Value of the parameter Slip : value of the slip =   0.01
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.387E-03
+ Relative variation with respect to the previous iteration 0.386E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.291E-03
+ Relative variation with respect to the previous iteration 0.290E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
@@ -193,15 +201,15 @@ Value of the parameter Slip : value of the slip =   0.01
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.190E-03
+ Relative variation with respect to the previous iteration 0.189E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.161E-03
+ Relative variation with respect to the previous iteration 0.160E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.139E-03
+ Relative variation with respect to the previous iteration 0.138E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
@@ -213,9 +221,157 @@ Value of the parameter Slip : value of the slip =   0.01
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.922E-04
+ Relative variation with respect to the previous iteration 0.916E-04
  
-      Computation 4 / 14
+      Computation 4 / 16
+ 
+Value of the parameter Slip : value of the slip =   0.02  
+ Integration done, equations assembled
+ Equations solved
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 1
+ Relative variation with respect to the previous iteration 0.034498
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 2
+ Relative variation with respect to the previous iteration 0.004969
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 3
+ Relative variation with respect to the previous iteration 0.002292
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 4
+ Relative variation with respect to the previous iteration 0.001061
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 5
+ Relative variation with respect to the previous iteration 0.635E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 6
+ Relative variation with respect to the previous iteration 0.457E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 7
+ Relative variation with respect to the previous iteration 0.354E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 8
+ Relative variation with respect to the previous iteration 0.288E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 9
+ Relative variation with respect to the previous iteration 0.243E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 10
+ Relative variation with respect to the previous iteration 0.208E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 11
+ Relative variation with respect to the previous iteration 0.181E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 12
+ Relative variation with respect to the previous iteration 0.158E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 13
+ Relative variation with respect to the previous iteration 0.138E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 14
+ Relative variation with respect to the previous iteration 0.122E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 15
+ Relative variation with respect to the previous iteration 0.107E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 16
+ Relative variation with respect to the previous iteration 0.948E-04
+ 
+      Computation 5 / 16
+ 
+Value of the parameter Slip : value of the slip =   0.035  
+ Integration done, equations assembled
+ Equations solved
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 1
+ Relative variation with respect to the previous iteration 0.033872
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 2
+ Relative variation with respect to the previous iteration 0.006027
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 3
+ Relative variation with respect to the previous iteration 0.002486
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 4
+ Relative variation with respect to the previous iteration 0.001202
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 5
+ Relative variation with respect to the previous iteration 0.753E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 6
+ Relative variation with respect to the previous iteration 0.558E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 7
+ Relative variation with respect to the previous iteration 0.443E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 8
+ Relative variation with respect to the previous iteration 0.366E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 9
+ Relative variation with respect to the previous iteration 0.311E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 10
+ Relative variation with respect to the previous iteration 0.268E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 11
+ Relative variation with respect to the previous iteration 0.234E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 12
+ Relative variation with respect to the previous iteration 0.205E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 13
+ Relative variation with respect to the previous iteration 0.180E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 14
+ Relative variation with respect to the previous iteration 0.158E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 15
+ Relative variation with respect to the previous iteration 0.139E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 16
+ Relative variation with respect to the previous iteration 0.123E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 17
+ Relative variation with respect to the previous iteration 0.108E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 18
+ Relative variation with respect to the previous iteration 0.958E-04
+ 
+      Computation 6 / 16
  
 Value of the parameter Slip : value of the slip =   0.04  
  Integration done, equations assembled
@@ -223,85 +379,77 @@ Value of the parameter Slip : value of the slip =   0.04
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.035231
+ Relative variation with respect to the previous iteration 0.033953
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.006243
+ Relative variation with respect to the previous iteration 0.00634
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.002596
+ Relative variation with respect to the previous iteration 0.002567
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.001321
+ Relative variation with respect to the previous iteration 0.001237
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.852E-03
+ Relative variation with respect to the previous iteration 0.781E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.645E-03
+ Relative variation with respect to the previous iteration 0.581E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.522E-03
+ Relative variation with respect to the previous iteration 0.463E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.438E-03
+ Relative variation with respect to the previous iteration 0.383E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.375E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 10
  Relative variation with respect to the previous iteration 0.326E-03
  Integration done, equations assembled
  Equations solved
+ Iteration number 10
+ Relative variation with respect to the previous iteration 0.281E-03
+ Integration done, equations assembled
+ Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.285E-03
+ Relative variation with respect to the previous iteration 0.244E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.250E-03
+ Relative variation with respect to the previous iteration 0.214E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.220E-03
+ Relative variation with respect to the previous iteration 0.187E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.194E-03
+ Relative variation with respect to the previous iteration 0.164E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.171E-03
+ Relative variation with respect to the previous iteration 0.145E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.151E-03
+ Relative variation with respect to the previous iteration 0.128E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.134E-03
+ Relative variation with respect to the previous iteration 0.113E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.118E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 19
- Relative variation with respect to the previous iteration 0.105E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 20
- Relative variation with respect to the previous iteration 0.931E-04
+ Relative variation with respect to the previous iteration 0.994E-04
  
-      Computation 5 / 14
+      Computation 7 / 16
  
 Value of the parameter Slip : value of the slip =   0.06  
  Integration done, equations assembled
@@ -309,89 +457,77 @@ Value of the parameter Slip : value of the slip =   0.06
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.037339
+ Relative variation with respect to the previous iteration 0.035597
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.007821
+ Relative variation with respect to the previous iteration 0.007477
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.002853
+ Relative variation with respect to the previous iteration 0.002724
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.001496
+ Relative variation with respect to the previous iteration 0.00136
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.001003
+ Relative variation with respect to the previous iteration 0.848E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.772E-03
+ Relative variation with respect to the previous iteration 0.630E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.629E-03
+ Relative variation with respect to the previous iteration 0.497E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.529E-03
+ Relative variation with respect to the previous iteration 0.408E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.452E-03
+ Relative variation with respect to the previous iteration 0.342E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.392E-03
+ Relative variation with respect to the previous iteration 0.292E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.341E-03
+ Relative variation with respect to the previous iteration 0.252E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.298E-03
+ Relative variation with respect to the previous iteration 0.218E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.262E-03
+ Relative variation with respect to the previous iteration 0.190E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.230E-03
+ Relative variation with respect to the previous iteration 0.165E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.202E-03
+ Relative variation with respect to the previous iteration 0.145E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.178E-03
+ Relative variation with respect to the previous iteration 0.127E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.157E-03
+ Relative variation with respect to the previous iteration 0.111E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.139E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 19
- Relative variation with respect to the previous iteration 0.123E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 20
- Relative variation with respect to the previous iteration 0.108E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 21
- Relative variation with respect to the previous iteration 0.959E-04
+ Relative variation with respect to the previous iteration 0.978E-04
  
-      Computation 6 / 14
+      Computation 8 / 16
  
 Value of the parameter Slip : value of the slip =   0.08  
  Integration done, equations assembled
@@ -399,89 +535,77 @@ Value of the parameter Slip : value of the slip =   0.08
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.041401
+ Relative variation with respect to the previous iteration 0.038251
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.009037
+ Relative variation with respect to the previous iteration 0.007669
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.003017
+ Relative variation with respect to the previous iteration 0.002775
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.001614
+ Relative variation with respect to the previous iteration 0.001419
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.00108
+ Relative variation with respect to the previous iteration 0.883E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.833E-03
+ Relative variation with respect to the previous iteration 0.646E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.676E-03
+ Relative variation with respect to the previous iteration 0.503E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.564E-03
+ Relative variation with respect to the previous iteration 0.407E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.479E-03
+ Relative variation with respect to the previous iteration 0.337E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.412E-03
+ Relative variation with respect to the previous iteration 0.284E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.356E-03
+ Relative variation with respect to the previous iteration 0.242E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.309E-03
+ Relative variation with respect to the previous iteration 0.208E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.270E-03
+ Relative variation with respect to the previous iteration 0.179E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.235E-03
+ Relative variation with respect to the previous iteration 0.155E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.206E-03
+ Relative variation with respect to the previous iteration 0.135E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.181E-03
+ Relative variation with respect to the previous iteration 0.117E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.159E-03
+ Relative variation with respect to the previous iteration 0.103E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.139E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 19
- Relative variation with respect to the previous iteration 0.123E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 20
- Relative variation with respect to the previous iteration 0.108E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 21
- Relative variation with respect to the previous iteration 0.954E-04
+ Relative variation with respect to the previous iteration 0.899E-04
  
-      Computation 7 / 14
+      Computation 9 / 16
  
 Value of the parameter Slip : value of the slip =   0.1  
  Integration done, equations assembled
@@ -489,89 +613,77 @@ Value of the parameter Slip : value of the slip =   0.1
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.046674
+ Relative variation with respect to the previous iteration 0.040836
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.009445
+ Relative variation with respect to the previous iteration 0.007852
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.003078
+ Relative variation with respect to the previous iteration 0.002795
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.001684
+ Relative variation with respect to the previous iteration 0.001406
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.001127
+ Relative variation with respect to the previous iteration 0.931E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.860E-03
+ Relative variation with respect to the previous iteration 0.687E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.691E-03
+ Relative variation with respect to the previous iteration 0.533E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.570E-03
+ Relative variation with respect to the previous iteration 0.428E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.479E-03
+ Relative variation with respect to the previous iteration 0.352E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.407E-03
+ Relative variation with respect to the previous iteration 0.295E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.349E-03
+ Relative variation with respect to the previous iteration 0.250E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.301E-03
+ Relative variation with respect to the previous iteration 0.214E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.260E-03
+ Relative variation with respect to the previous iteration 0.184E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.226E-03
+ Relative variation with respect to the previous iteration 0.159E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.197E-03
+ Relative variation with respect to the previous iteration 0.137E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.172E-03
+ Relative variation with respect to the previous iteration 0.119E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.151E-03
+ Relative variation with respect to the previous iteration 0.104E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.132E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 19
- Relative variation with respect to the previous iteration 0.116E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 20
- Relative variation with respect to the previous iteration 0.102E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 21
- Relative variation with respect to the previous iteration 0.893E-04
+ Relative variation with respect to the previous iteration 0.909E-04
  
-      Computation 8 / 14
+      Computation 10 / 16
  
 Value of the parameter Slip : value of the slip =   0.12  
  Integration done, equations assembled
@@ -579,85 +691,81 @@ Value of the parameter Slip : value of the slip =   0.12
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.052326
+ Relative variation with respect to the previous iteration 0.042492
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.010612
+ Relative variation with respect to the previous iteration 0.008139
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.003247
+ Relative variation with respect to the previous iteration 0.002877
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.001715
+ Relative variation with respect to the previous iteration 0.001529
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.001165
+ Relative variation with respect to the previous iteration 0.001037
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.886E-03
+ Relative variation with respect to the previous iteration 0.768E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.707E-03
+ Relative variation with respect to the previous iteration 0.596E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.579E-03
+ Relative variation with respect to the previous iteration 0.478E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.484E-03
+ Relative variation with respect to the previous iteration 0.393E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.409E-03
+ Relative variation with respect to the previous iteration 0.329E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.349E-03
+ Relative variation with respect to the previous iteration 0.278E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.300E-03
+ Relative variation with respect to the previous iteration 0.238E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.259E-03
+ Relative variation with respect to the previous iteration 0.204E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.224E-03
+ Relative variation with respect to the previous iteration 0.176E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.195E-03
+ Relative variation with respect to the previous iteration 0.152E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.169E-03
+ Relative variation with respect to the previous iteration 0.132E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.148E-03
+ Relative variation with respect to the previous iteration 0.115E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.129E-03
+ Relative variation with respect to the previous iteration 0.100E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 19
- Relative variation with respect to the previous iteration 0.113E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 20
- Relative variation with respect to the previous iteration 0.988E-04
+ Relative variation with respect to the previous iteration 0.877E-04
  
-      Computation 9 / 14
+      Computation 11 / 16
  
 Value of the parameter Slip : value of the slip =   0.15  
  Integration done, equations assembled
@@ -665,89 +773,85 @@ Value of the parameter Slip : value of the slip =   0.15
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.060832
+ Relative variation with respect to the previous iteration 0.043502
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.015313
+ Relative variation with respect to the previous iteration 0.008778
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.004105
+ Relative variation with respect to the previous iteration 0.003256
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.002229
+ Relative variation with respect to the previous iteration 0.001879
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.001404
+ Relative variation with respect to the previous iteration 0.001255
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.001041
+ Relative variation with respect to the previous iteration 0.924E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.820E-03
+ Relative variation with respect to the previous iteration 0.713E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.667E-03
+ Relative variation with respect to the previous iteration 0.570E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.554E-03
+ Relative variation with respect to the previous iteration 0.468E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.467E-03
+ Relative variation with respect to the previous iteration 0.390E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.397E-03
+ Relative variation with respect to the previous iteration 0.329E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.340E-03
+ Relative variation with respect to the previous iteration 0.280E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.292E-03
+ Relative variation with respect to the previous iteration 0.240E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.252E-03
+ Relative variation with respect to the previous iteration 0.207E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.218E-03
+ Relative variation with respect to the previous iteration 0.179E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.189E-03
+ Relative variation with respect to the previous iteration 0.155E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.164E-03
+ Relative variation with respect to the previous iteration 0.135E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.143E-03
+ Relative variation with respect to the previous iteration 0.118E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 19
- Relative variation with respect to the previous iteration 0.125E-03
+ Relative variation with respect to the previous iteration 0.103E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 20
- Relative variation with respect to the previous iteration 0.109E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 21
- Relative variation with respect to the previous iteration 0.954E-04
+ Relative variation with respect to the previous iteration 0.901E-04
  
-      Computation 10 / 14
+      Computation 12 / 16
  
 Value of the parameter Slip : value of the slip =   0.2  
  Integration done, equations assembled
@@ -755,97 +859,89 @@ Value of the parameter Slip : value of the slip =   0.2
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.0716
+ Relative variation with respect to the previous iteration 0.043427
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.01667
+ Relative variation with respect to the previous iteration 0.00906
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.006287
+ Relative variation with respect to the previous iteration 0.003623
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.003538
+ Relative variation with respect to the previous iteration 0.002213
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.002035
+ Relative variation with respect to the previous iteration 0.001459
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.00145
+ Relative variation with respect to the previous iteration 0.001079
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.001125
+ Relative variation with respect to the previous iteration 0.835E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.908E-03
+ Relative variation with respect to the previous iteration 0.668E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.750E-03
+ Relative variation with respect to the previous iteration 0.547E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.627E-03
+ Relative variation with respect to the previous iteration 0.456E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.530E-03
+ Relative variation with respect to the previous iteration 0.384E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.451E-03
+ Relative variation with respect to the previous iteration 0.327E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.386E-03
+ Relative variation with respect to the previous iteration 0.280E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.331E-03
+ Relative variation with respect to the previous iteration 0.241E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.285E-03
+ Relative variation with respect to the previous iteration 0.208E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.247E-03
+ Relative variation with respect to the previous iteration 0.181E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.214E-03
+ Relative variation with respect to the previous iteration 0.157E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.186E-03
+ Relative variation with respect to the previous iteration 0.137E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 19
- Relative variation with respect to the previous iteration 0.162E-03
+ Relative variation with respect to the previous iteration 0.119E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 20
- Relative variation with respect to the previous iteration 0.141E-03
+ Relative variation with respect to the previous iteration 0.105E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 21
- Relative variation with respect to the previous iteration 0.124E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 22
- Relative variation with respect to the previous iteration 0.108E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 23
- Relative variation with respect to the previous iteration 0.949E-04
+ Relative variation with respect to the previous iteration 0.916E-04
  
-      Computation 11 / 14
+      Computation 13 / 16
  
 Value of the parameter Slip : value of the slip =   0.3  
  Integration done, equations assembled
@@ -853,105 +949,89 @@ Value of the parameter Slip : value of the slip =   0.3
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.080577
+ Relative variation with respect to the previous iteration 0.040316
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.016638
+ Relative variation with respect to the previous iteration 0.008224
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.007162
+ Relative variation with respect to the previous iteration 0.003653
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.004384
+ Relative variation with respect to the previous iteration 0.002315
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.002811
+ Relative variation with respect to the previous iteration 0.001559
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.001989
+ Relative variation with respect to the previous iteration 0.001161
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.001515
+ Relative variation with respect to the previous iteration 0.901E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.001212
+ Relative variation with respect to the previous iteration 0.722E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.991E-03
+ Relative variation with respect to the previous iteration 0.591E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.824E-03
+ Relative variation with respect to the previous iteration 0.492E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.693E-03
+ Relative variation with respect to the previous iteration 0.414E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.588E-03
+ Relative variation with respect to the previous iteration 0.352E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.501E-03
+ Relative variation with respect to the previous iteration 0.301E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.429E-03
+ Relative variation with respect to the previous iteration 0.259E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.368E-03
+ Relative variation with respect to the previous iteration 0.223E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.317E-03
+ Relative variation with respect to the previous iteration 0.193E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.273E-03
+ Relative variation with respect to the previous iteration 0.167E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.236E-03
+ Relative variation with respect to the previous iteration 0.145E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 19
- Relative variation with respect to the previous iteration 0.204E-03
+ Relative variation with respect to the previous iteration 0.126E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 20
- Relative variation with respect to the previous iteration 0.177E-03
+ Relative variation with respect to the previous iteration 0.110E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 21
- Relative variation with respect to the previous iteration 0.153E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 22
- Relative variation with respect to the previous iteration 0.133E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 23
- Relative variation with respect to the previous iteration 0.116E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 24
- Relative variation with respect to the previous iteration 0.100E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 25
- Relative variation with respect to the previous iteration 0.875E-04
+ Relative variation with respect to the previous iteration 0.961E-04
  
-      Computation 12 / 14
+      Computation 14 / 16
  
 Value of the parameter Slip : value of the slip =   0.5  
  Integration done, equations assembled
@@ -959,101 +1039,85 @@ Value of the parameter Slip : value of the slip =   0.5
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.082887
+ Relative variation with respect to the previous iteration 0.036163
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.02105
+ Relative variation with respect to the previous iteration 0.007016
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.007548
+ Relative variation with respect to the previous iteration 0.003493
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.0049
+ Relative variation with respect to the previous iteration 0.002273
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.003451
+ Relative variation with respect to the previous iteration 0.001558
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.002611
+ Relative variation with respect to the previous iteration 0.001157
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.002034
+ Relative variation with respect to the previous iteration 0.896E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.001622
+ Relative variation with respect to the previous iteration 0.714E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.001317
+ Relative variation with respect to the previous iteration 0.581E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.00108
+ Relative variation with respect to the previous iteration 0.481E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.891E-03
+ Relative variation with respect to the previous iteration 0.403E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.738E-03
+ Relative variation with respect to the previous iteration 0.340E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.614E-03
+ Relative variation with respect to the previous iteration 0.288E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.512E-03
+ Relative variation with respect to the previous iteration 0.246E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.429E-03
+ Relative variation with respect to the previous iteration 0.210E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.360E-03
+ Relative variation with respect to the previous iteration 0.180E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.303E-03
+ Relative variation with respect to the previous iteration 0.155E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.256E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 19
- Relative variation with respect to the previous iteration 0.217E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 20
- Relative variation with respect to the previous iteration 0.184E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 21
- Relative variation with respect to the previous iteration 0.157E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 22
  Relative variation with respect to the previous iteration 0.134E-03
  Integration done, equations assembled
  Equations solved
- Iteration number 23
+ Iteration number 19
  Relative variation with respect to the previous iteration 0.115E-03
  Integration done, equations assembled
  Equations solved
- Iteration number 24
- Relative variation with respect to the previous iteration 0.986E-04
+ Iteration number 20
+ Relative variation with respect to the previous iteration 0.996E-04
  
-      Computation 13 / 14
+      Computation 15 / 16
  
 Value of the parameter Slip : value of the slip =   0.7  
  Integration done, equations assembled
@@ -1061,101 +1125,85 @@ Value of the parameter Slip : value of the slip =   0.7
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.079319
+ Relative variation with respect to the previous iteration 0.034027
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.020624
+ Relative variation with respect to the previous iteration 0.006385
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.007912
+ Relative variation with respect to the previous iteration 0.003397
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.005254
+ Relative variation with respect to the previous iteration 0.002277
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.003733
+ Relative variation with respect to the previous iteration 0.001571
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.002813
+ Relative variation with respect to the previous iteration 0.001165
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.002155
+ Relative variation with respect to the previous iteration 0.898E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.001683
+ Relative variation with respect to the previous iteration 0.710E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.001335
+ Relative variation with respect to the previous iteration 0.574E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.001071
+ Relative variation with respect to the previous iteration 0.470E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.867E-03
+ Relative variation with respect to the previous iteration 0.391E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.707E-03
+ Relative variation with respect to the previous iteration 0.327E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.580E-03
+ Relative variation with respect to the previous iteration 0.275E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.478E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 15
- Relative variation with respect to the previous iteration 0.396E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 16
- Relative variation with respect to the previous iteration 0.330E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 17
- Relative variation with respect to the previous iteration 0.276E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 18
  Relative variation with respect to the previous iteration 0.232E-03
  Integration done, equations assembled
  Equations solved
+ Iteration number 15
+ Relative variation with respect to the previous iteration 0.197E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 16
+ Relative variation with respect to the previous iteration 0.168E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 17
+ Relative variation with respect to the previous iteration 0.143E-03
+ Integration done, equations assembled
+ Equations solved
+ Iteration number 18
+ Relative variation with respect to the previous iteration 0.123E-03
+ Integration done, equations assembled
+ Equations solved
  Iteration number 19
- Relative variation with respect to the previous iteration 0.195E-03
+ Relative variation with respect to the previous iteration 0.105E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 20
- Relative variation with respect to the previous iteration 0.165E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 21
- Relative variation with respect to the previous iteration 0.140E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 22
- Relative variation with respect to the previous iteration 0.119E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 23
- Relative variation with respect to the previous iteration 0.102E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 24
- Relative variation with respect to the previous iteration 0.873E-04
+ Relative variation with respect to the previous iteration 0.903E-04
  
-      Computation 14 / 14
+      Computation 16 / 16
  
 Value of the parameter Slip : value of the slip =   0.999  
  Integration done, equations assembled
@@ -1163,94 +1211,78 @@ Value of the parameter Slip : value of the slip =   0.999
  Integration done, equations assembled
  Equations solved
  Iteration number 1
- Relative variation with respect to the previous iteration 0.073798
+ Relative variation with respect to the previous iteration 0.032522
  Integration done, equations assembled
  Equations solved
  Iteration number 2
- Relative variation with respect to the previous iteration 0.019324
+ Relative variation with respect to the previous iteration 0.005991
  Integration done, equations assembled
  Equations solved
  Iteration number 3
- Relative variation with respect to the previous iteration 0.008674
+ Relative variation with respect to the previous iteration 0.003388
  Integration done, equations assembled
  Equations solved
  Iteration number 4
- Relative variation with respect to the previous iteration 0.00569
+ Relative variation with respect to the previous iteration 0.002305
  Integration done, equations assembled
  Equations solved
  Iteration number 5
- Relative variation with respect to the previous iteration 0.003928
+ Relative variation with respect to the previous iteration 0.001592
  Integration done, equations assembled
  Equations solved
  Iteration number 6
- Relative variation with respect to the previous iteration 0.002846
+ Relative variation with respect to the previous iteration 0.001174
  Integration done, equations assembled
  Equations solved
  Iteration number 7
- Relative variation with respect to the previous iteration 0.002125
+ Relative variation with respect to the previous iteration 0.898E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 8
- Relative variation with respect to the previous iteration 0.001626
+ Relative variation with respect to the previous iteration 0.704E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 9
- Relative variation with respect to the previous iteration 0.001265
+ Relative variation with respect to the previous iteration 0.563E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 10
- Relative variation with respect to the previous iteration 0.997E-03
+ Relative variation with respect to the previous iteration 0.457E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 11
- Relative variation with respect to the previous iteration 0.795E-03
+ Relative variation with respect to the previous iteration 0.376E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 12
- Relative variation with respect to the previous iteration 0.640E-03
+ Relative variation with respect to the previous iteration 0.311E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 13
- Relative variation with respect to the previous iteration 0.519E-03
+ Relative variation with respect to the previous iteration 0.259E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 14
- Relative variation with respect to the previous iteration 0.425E-03
+ Relative variation with respect to the previous iteration 0.218E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 15
- Relative variation with respect to the previous iteration 0.349E-03
+ Relative variation with respect to the previous iteration 0.183E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 16
- Relative variation with respect to the previous iteration 0.289E-03
+ Relative variation with respect to the previous iteration 0.155E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 17
- Relative variation with respect to the previous iteration 0.241E-03
+ Relative variation with respect to the previous iteration 0.131E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 18
- Relative variation with respect to the previous iteration 0.201E-03
+ Relative variation with respect to the previous iteration 0.112E-03
  Integration done, equations assembled
  Equations solved
  Iteration number 19
- Relative variation with respect to the previous iteration 0.169E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 20
- Relative variation with respect to the previous iteration 0.143E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 21
- Relative variation with respect to the previous iteration 0.121E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 22
- Relative variation with respect to the previous iteration 0.103E-03
- Integration done, equations assembled
- Equations solved
- Iteration number 23
- Relative variation with respect to the previous iteration 0.874E-04
+ Relative variation with respect to the previous iteration 0.953E-04
  
 Status : computation finished

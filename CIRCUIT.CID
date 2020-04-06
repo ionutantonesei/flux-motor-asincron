@@ -1,4 +1,4 @@
-                                             10.300     03/15/20 09:17   
+                                             10.300     04/06/20 07:19   
     16             Number of component types
     39             Number of components
     20             Number of points along the grid Y axis
@@ -91,6 +91,6 @@ Induc29
    37          1    16     8    16    10     1     0     0     0
 Squirrel cage                                                                   
    38         11    17     8    18     8     1     0     0     4
-             20.00000       1.000000      0.3500000E-05  0.7000000E-07
+             20.00000       1.000000      0.3500000E-05  0.2000000E-06
                                                                                 
    39          1    16     8    17     8     1     0     0     0

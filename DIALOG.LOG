@@ -77,7 +77,7 @@ Data for FLUX2D written into file CIRCUIT.CIF
 Is it an asynchronous machine ?
   YES
 Value of the slip ?
-  0.02
+  0.03
 Select a region "coil" (or "solid conductor")
                    R1
 Select a coil or a solid conductor
