@@ -2,7 +2,7 @@ FLUX2D 10.3.1  0
 # Problem name
 TEST2
 10.3
-04/06/20 07:22:13
+04/07/20 11:29:55
 # Number of groupe
   126
 # Region 3  Property 3
@@ -770,7 +770,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.263
+  0.7
 # Variation direction
   0
 # Number of interval
@@ -794,7 +794,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.263
+  0.7
 # Variation direction
   0
 # Number of interval
@@ -818,7 +818,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  0.263
+  0.7
 # Variation direction
   0
 # Number of interval
@@ -842,7 +842,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  0.011
+  0.029
 # Variation direction
   0
 # Number of interval
@@ -866,7 +866,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  0.011
+  0.029
 # Variation direction
   0
 # Number of interval
@@ -890,7 +890,7 @@ Self induction coefficient (Henry)
 # Upper value
   INFINI
 # Reference value
-  0.011
+  0.029
 # Variation direction
   0
 # Number of interval
@@ -1046,7 +1046,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1070,7 +1070,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1142,7 +1142,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1166,7 +1166,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1238,7 +1238,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1262,7 +1262,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1334,7 +1334,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1358,7 +1358,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1430,7 +1430,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1454,7 +1454,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1526,7 +1526,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1550,7 +1550,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1622,7 +1622,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1646,7 +1646,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1718,7 +1718,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1742,7 +1742,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1814,7 +1814,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1838,7 +1838,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1910,7 +1910,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -1934,7 +1934,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2006,7 +2006,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2030,7 +2030,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2102,7 +2102,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2126,7 +2126,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2198,7 +2198,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2222,7 +2222,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2294,7 +2294,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2318,7 +2318,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2390,7 +2390,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2414,7 +2414,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2486,7 +2486,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2510,7 +2510,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2582,7 +2582,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2606,7 +2606,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2678,7 +2678,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2702,7 +2702,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2774,7 +2774,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2798,7 +2798,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2870,7 +2870,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval
@@ -2894,7 +2894,7 @@ Resistance value (Ohm)
 # Upper value
   INFINI
 # Reference value
-  3.5e-006
+  5e-006
 # Variation direction
   0
 # Number of interval

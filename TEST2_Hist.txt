@@ -4,26 +4,166 @@ Plane problem : real depth of the object = 98.800011 mm
 Value of the slip: 0.030000
 
 ====================================================================
+ISOVALUES	Quantity: Equi flux	Unit: Weber                                                                           
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Number		Value
+1		-4.997E-3
+2		-3.995E-3
+3		-2.993E-3
+4		-1.991E-3
+5		-990.003E-6
+6		11.919E-6
+7		1.013E-3
+8		2.015E-3
+9		3.017E-3
+10		4.019E-3
+11		5.021E-3
+
+
+
+====================================================================
 COLOR SHADE	Quantity: |Flux density|	Unit: Tesla                                                                           
 
 Slip : 0.03  Pos (deg): 0Phase (Deg): 0
 Number	Min value		Max value
-1	702.492892E-6		206.028967E-3
-2	206.028967E-3		411.355406E-3
-3	411.355406E-3		616.681932E-3
-4	616.681932E-3		822.008371E-3
-5	822.008371E-3		1.027334
-6	1.027334		1.232661
-7	1.232661		1.437987
-8	1.437987		1.643313
-9	1.643313		1.84864
-10	1.84864		2.053966
-11	2.053966		2.259293
-12	2.259293		2.46462
-13	2.46462		2.669945
-14	2.669945		2.875272
-15	2.875272		3.080598
-16	3.080598		3.285925
+1	25.093845E-6		196.232079E-3
+2	196.232079E-3		392.439067E-3
+3	392.439067E-3		588.646054E-3
+4	588.646054E-3		784.85304E-3
+5	784.85304E-3		981.060087E-3
+6	981.060087E-3		1.177267
+7	1.177267		1.373474
+8	1.373474		1.56968
+9	1.56968		1.765887
+10	1.765887		1.962094
+11	1.962094		2.158301
+12	2.158301		2.354508
+13	2.354508		2.550715
+14	2.550715		2.746922
+15	2.746922		2.943129
+16	2.943129		3.139336
+
+
+
+====================================================================
+COLOR SHADE	Quantity: |Flux density|	Unit: Tesla                                                                           
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Number	Min value		Max value
+1	25.093799E-6		137.523531E-3
+2	137.523531E-3		275.02197E-3
+3	275.02197E-3		412.520408E-3
+4	412.520408E-3		550.018846E-3
+5	550.018846E-3		687.517285E-3
+6	687.517285E-3		825.015723E-3
+7	825.015723E-3		962.514221E-3
+8	962.514221E-3		1.100012
+9	1.100012		1.237511
+10	1.237511		1.375009
+11	1.375009		1.512507
+12	1.512507		1.650006
+13	1.650006		1.787504
+14	1.787504		1.925003
+15	1.925003		2.062501
+16	2.062501		2.2
+
+
+
+====================================================================
+COMPUTATION ON POINT
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Point(39.292,-151.808)
+Flux density	Magnitude	2.246161e+000	Tesla	OK
+Points for Flux computation : (0.000, 0.000) and (-0.035,-0.019)
+Flux		4.920719e-003	Weber	OK
+
+====================================================================
+COMPUTATION ON POINT
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Point(65.009,-156.384)
+Flux density	Magnitude	2.099847e+000	Tesla	OK
+Points for Flux computation : (-0.035, -0.019) and (-0.060,-0.026)
+Flux		1.787376e-004	Weber	OK
+
+====================================================================
+COMPUTATION ON POINT
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Point(65.938,-143.37)
+Flux density	Magnitude	2.078902e+000	Tesla	OK
+Points for Flux computation : (-0.060, -0.026) and (-0.053,-0.039)
+Flux		6.528012e-005	Weber	OK
+
+====================================================================
+COMPUTATION ON POINT
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Point(38.044,25.445)
+Flux density	Magnitude	2.262464e+000	Tesla	OK
+Points for Flux computation : (-0.053, -0.039) and (0.034,0.016)
+Flux		-2.780003e-004	Weber	OK
+
+====================================================================
+COMPUTATION ON POINT
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Point(36.908,7.764)
+Flux density	Magnitude	2.061472e+000	Tesla	OK
+Points for Flux computation : (0.034, 0.016) and (0.037,0.005)
+Flux		-4.645577e-005	Weber	OK
+
+====================================================================
+COMPUTATION ON POINT
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Point(63.011,23.859)
+Flux density	Magnitude	2.073951e+000	Tesla	OK
+Points for Flux computation : (0.037, 0.005) and (0.058,0.025)
+Flux		2.499488e-004	Weber	OK
+
+====================================================================
+ISOVALUES	Quantity: Equi flux	Unit: Weber                                                                           
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Number		Value
+1		-5.099E-3
+2		-4.077E-3
+3		-3.055E-3
+4		-2.032E-3
+5		-1.01E-3
+6		11.919E-6
+7		1.034E-3
+8		2.056E-3
+9		3.079E-3
+10		4.1E-3
+11		5.123E-3
+
+
+
+====================================================================
+COLOR SHADE	Quantity: |Flux density|	Unit: Tesla                                                                           
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Number	Min value		Max value
+1	25.093799E-6		140.648528E-3
+2	140.648528E-3		281.271994E-3
+3	281.271994E-3		421.895384E-3
+4	421.895384E-3		562.518834E-3
+5	562.518834E-3		703.142285E-3
+6	703.142285E-3		843.765675E-3
+7	843.765675E-3		984.389185E-3
+8	984.389185E-3		1.125012
+9	1.125012		1.265635
+10	1.265635		1.406258
+11	1.406258		1.546882
+12	1.546882		1.687505
+13	1.687505		1.828129
+14	1.828129		1.968752
+15	1.968752		2.109376
+16	2.109376		2.25
 
 
 
@@ -31,69 +171,68 @@ Number	Min value		Max value
 COMPUTATION ON SUPPORT
 
 Slip : 0.03  Pos (deg): 0Phase (Deg): 0
+Resis24 ; 
+Circuit	Magnitude Voltage	6.185831e+000	Volt	OK
+Circuit	Real part Voltage	-1.974738e+000	Volt	OK
+Circuit	Imag part Voltage	5.862159e+000	Volt	OK
+Circuit	Phase Voltage	1.086167e+002	Degree	OK
+Circuit	Rms voltage	4.374043e+000	V. rms	OK
+Circuit	Magnitude Current	8.836901e+000	Ampere	OK
+Circuit	Real part Current	-2.821055e+000	Ampere	OK
+Circuit	Imag part Current	8.374513e+000	Ampere	OK
+Circuit	Phase Current	1.086167e+002	Degree	OK
+Circuit	Rms current	6.248632e+000	A. rms	OK
+Circuit	Active power	2.733179e+001	VA	OK
+Circuit	Reactive power	0.000000e+000	VAr	OK
+Circuit	Magnitude Flux	0.000000e+000	Weber	Invalid component
+Circuit	Real part Flux	0.000000e+000	Weber	Invalid component
+Circuit	Imag part Flux	0.000000e+000	Weber	Invalid component
+Circuit	Phase Flux	0.000000e+000	Degree	Invalid component
+Circuit	Rms flux	0.000000e+000	Rms flux	Invalid component
+
+====================================================================
+COMPUTATION ON SUPPORT
+
+Slip : 0.03  Pos (deg): 0Phase (Deg): 0
 Bar98 ; 
-Circuit	Magnitude Voltage	2.296351e-002	Volt	OK
-Circuit	Real part Voltage	-8.435405e-003	Volt	OK
-Circuit	Imag part Voltage	-2.135807e-002	Volt	OK
-Circuit	Phase Voltage	-1.115516e+002	Degree	OK
-Circuit	Rms voltage	1.623766e-002	V. rms	OK
-Circuit	Magnitude Current	3.014358e+002	Ampere	OK
-Circuit	Real part Current	2.118338e+002	Ampere	OK
-Circuit	Imag part Current	2.144528e+002	Ampere	OK
-Circuit	Phase Current	4.535201e+001	Degree	OK
-Circuit	Rms current	2.131473e+002	A. rms	OK
-Circuit	Active power	-1.061200e+002	VA	OK
-Circuit	Reactive power	-1.357682e+000	VAr	OK
-Circuit	Magnitude Flux	5.232169e-003	Weber	OK
-Circuit	Real part Flux	-4.463619e-003	Weber	OK
-Circuit	Imag part Flux	2.729780e-003	Weber	OK
-Circuit	Phase Flux	1.485516e+002	Degree	OK
-Circuit	Rms flux	3.699702e-003	Rms flux	OK
+Circuit	Magnitude Voltage	2.474172e-002	Volt	OK
+Circuit	Real part Voltage	-1.094672e-002	Volt	OK
+Circuit	Imag part Voltage	-2.218834e-002	Volt	OK
+Circuit	Phase Voltage	-1.162596e+002	Degree	OK
+Circuit	Rms voltage	1.749504e-002	V. rms	OK
+Circuit	Magnitude Current	2.376083e+002	Ampere	OK
+Circuit	Real part Current	1.613634e+002	Ampere	OK
+Circuit	Imag part Current	1.744121e+002	Ampere	OK
+Circuit	Phase Current	4.722548e+001	Degree	OK
+Circuit	Rms current	1.680145e+002	A. rms	OK
+Circuit	Active power	-9.393857e+001	VA	OK
+Circuit	Reactive power	-8.355724e-001	VAr	OK
+Circuit	Magnitude Flux	5.040186e-003	Weber	OK
+Circuit	Real part Flux	-4.269227e-003	Weber	OK
+Circuit	Imag part Flux	2.679025e-003	Weber	OK
+Circuit	Phase Flux	1.478909e+002	Degree	OK
+Circuit	Rms flux	3.563950e-003	Rms flux	OK
+Resis24
+Resistor Resis24
+Resistance : 0.7 Ohm
 
-====================================================================
-COLOR SHADE	Quantity: |Flux density|	Unit: Tesla                                                                           
+Resis25
+Resistor Resis25
+Resistance : 0.7 Ohm
 
-Slip : 0.03  Pos (deg): 0Phase (Deg): 0
-Number	Min value		Max value
-1	702.493009E-6		150.658606E-3
-2	150.658606E-3		300.614714E-3
-3	300.614714E-3		450.570821E-3
-4	450.570821E-3		600.526928E-3
-5	600.526928E-3		750.483035E-3
-6	750.483035E-3		900.439142E-3
-7	900.439142E-3		1.050394
-8	1.050394		1.20035
-9	1.20035		1.350306
-10	1.350306		1.500263
-11	1.500263		1.650219
-12	1.650219		1.800175
-13	1.800175		1.950131
-14	1.950131		2.100087
-15	2.100087		2.250043
-16	2.250043		2.399999
+Resis26
+Resistor Resis26
+Resistance : 0.7 Ohm
 
+Induc27
+Component coil Induc27
+Inductance : 0.029 Henry
 
+Induc28
+Component coil Induc28
+Inductance : 0.029 Henry
 
-====================================================================
-COLOR SHADE	Quantity: |Flux density|	Unit: Tesla                                                                           
-
-Slip : 0.03  Pos (deg): 0Phase (Deg): 0
-Number	Min value		Max value
-1	702.493009E-6		163.158595E-3
-2	163.158595E-3		325.61469E-3
-3	325.61469E-3		488.070785E-3
-4	488.070785E-3		650.526881E-3
-5	650.526881E-3		812.982976E-3
-6	812.982976E-3		975.439012E-3
-7	975.439012E-3		1.137895
-8	1.137895		1.300351
-9	1.300351		1.462806
-10	1.462806		1.625262
-11	1.625262		1.787719
-12	1.787719		1.950175
-13	1.950175		2.112631
-14	2.112631		2.275087
-15	2.275087		2.437543
-16	2.437543		2.599999
-
+Induc29
+Component coil Induc29
+Inductance : 0.029 Henry
 
