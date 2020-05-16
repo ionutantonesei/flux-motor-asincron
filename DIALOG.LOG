@@ -1,4 +1,4 @@
-Trace in file MODPRO.esp
+Trace in file PROPHY.esp
  
                *******************************************
                *     CEDRAT                   MAGSOFT    *
@@ -18,52 +18,161 @@ Trace in file MODPRO.esp
 Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
 Problem name ?
-TEST2
+Problem name ?
+ 
+Invalid file name !
+Problem name ?
+TEST_CURENT_Y
  
 Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
-Name of initial "properties" ?
-ANALIZA_DINAMICA
-*** File TEST2 already exists ***
+Name of "geometry" ?
+MASINA_ASINCRONA
+*** File TEST_CURENT_Y already exists ***
 Do you want to continue ?
   YES
  
-Working space type?
-Actual depth (on Z axis) of the object (mm)
+Type of domain ?
+Actual depth (on Z axis) of the object ? (mm)
   98.8
+Problem type
 Source frequency (Hz) ?
   40
 Selected region ?
-AX                   FLU_STEEL_1010_XC10
-JUG_ROTORIC          FLU_M1000-65DNR
-R1                   FLU_ALUMINIUM
-R2                   FLU_ALUMINIUM
-R3                   FLU_ALUMINIUM
-R4                   FLU_ALUMINIUM
-R5                   FLU_ALUMINIUM
-R6                   FLU_ALUMINIUM
-R7                   FLU_ALUMINIUM
-R8                   FLU_ALUMINIUM
-R9                   FLU_ALUMINIUM
-R10                  FLU_ALUMINIUM
-R11                  FLU_ALUMINIUM
-R12                  FLU_ALUMINIUM
-R13                  FLU_ALUMINIUM
-R14                  FLU_ALUMINIUM
-R15                  FLU_ALUMINIUM
-R16                  FLU_ALUMINIUM
-R17                  FLU_ALUMINIUM
-R18                  FLU_ALUMINIUM
-R19                  FLU_ALUMINIUM
-R20                  FLU_ALUMINIUM
-INTREFIER            region without material (vacuum or ignored)
-A                    region without material (vacuum or ignored)
-X                    region without material (vacuum or ignored)
-B                    region without material (vacuum or ignored)
-Y                    region without material (vacuum or ignored)
-C                    region without material (vacuum or ignored)
-Z                    region without material (vacuum or ignored)
-JUG_STATORIC         FLU_M1000-65DNR
+  AX
+Select a material
+  FLU_STEEL_1010_XC10
+What do you want to do ?
+Equivalent B-H curve. Select the computation method
+Do you want to display the curves ?
+  NO
+Model of source
+Selected region ?
+  JUG_ROTORIC
+Select a material
+  FLU_M1000-65DNR
+What do you want to do ?
+Equivalent B-H curve. Select the computation method
+Do you want to display the curves ?
+  NO
+Model of source
+Selected region ?
+Selected region ?
+  R1
+Selected region ?
+  R2
+Selected region ?
+  R3
+Selected region ?
+  R4
+Selected region ?
+  R5
+Selected region ?
+  R6
+Selected region ?
+  R7
+Selected region ?
+  R8
+Selected region ?
+  R9
+Selected region ?
+  R10
+Selected region ?
+  R11
+Selected region ?
+  R12
+Selected region ?
+  R13
+Selected region ?
+  R14
+Selected region ?
+  R15
+Selected region ?
+  R16
+Selected region ?
+  R17
+Selected region ?
+  R18
+Selected region ?
+  R19
+Selected region ?
+  R20
+Selected region ?
+Select a material
+  FLU_ALUMINIUM
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  INTREFIER
+Select a material
+Model of source
+Selected region ?
+  A
+Select a material
+  FLU_COPPER
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  X
+Select a material
+  FLU_COPPER
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  B
+Select a material
+  FLU_COPPER
+What do you want to do ?
+ *** Please, choose an existing menu ***
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  Y
+Select a material
+  FLU_COPPER
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  C
+Select a material
+  FLU_COPPER
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  Z
+Select a material
+  FLU_COPPER
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  JUG_STATORIC
+Select a material
+  FLU_M1000-65DNR
+What do you want to do ?
+Equivalent B-H curve. Select the computation method
+Do you want to display the curves ?
+  NO
+Model of source
 Selected region ?
  
      DEFINITION OF BOUNDARY CONDITIONS
@@ -77,51 +186,169 @@ Color codes. (solid square = reference point)
    CYAN      : translation condition
    TURQUOISE : periodic condition (A.exp(J.phi))
 Boundary condition type
+Please select the starting point
+Please select the ending point
+Do you want to define the values by a user's program ?
+  NO
+Flux through the rectangle : width = thickness of the model,
+ length = distance between null boundary and current point
+Flux magnitude (Weber peak value)
+  0
+Please select the starting point
+Boundary condition type
 Existing comment at the beginning of the file
-    e bun
+ 
 Do you want to change it ?
   NO
-Circuit name : CIRCUIT
+ 
+Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
+ 
+Circuit name ?
+CIRCUIT_CURENT
+Is it an asynchronous machine ?
+  YES
+Value of the slip ?
+  0.03
+Select a region "coil" (or "solid conductor")
+                   R1
+Select a coil or a solid conductor
+                             R1                                           Bar97
+Select a region "coil" (or "solid conductor")
+                   R2
+Select a coil or a solid conductor
+                             R2                                           Bar98
+Select a region "coil" (or "solid conductor")
+                   R3
+Select a coil or a solid conductor
+                             R3                                           Bar99
+Select a region "coil" (or "solid conductor")
+                   R4
+Select a coil or a solid conductor
+                             R4                                          Bar100
+Select a region "coil" (or "solid conductor")
+                   R5
+Select a coil or a solid conductor
+                             R5                                          Bar101
+Select a region "coil" (or "solid conductor")
+                   R6
+Select a coil or a solid conductor
+                             R6                                          Bar102
+Select a region "coil" (or "solid conductor")
+                   R7
+Select a coil or a solid conductor
+                             R7                                          Bar103
+Select a region "coil" (or "solid conductor")
+                   R8
+Select a coil or a solid conductor
+                             R8                                          Bar104
+Select a region "coil" (or "solid conductor")
+                   R9
+Select a coil or a solid conductor
+                             R9                                          Bar105
+Select a region "coil" (or "solid conductor")
+                   R10
+Select a coil or a solid conductor
+                             R10                                         Bar106
+Select a region "coil" (or "solid conductor")
+                   R11
+Select a coil or a solid conductor
+                             R11                                         Bar107
+Select a region "coil" (or "solid conductor")
+                   R12
+Select a coil or a solid conductor
+                             R12                                         Bar108
+Select a region "coil" (or "solid conductor")
+                   R13
+Select a coil or a solid conductor
+                             R13                                         Bar109
+Select a region "coil" (or "solid conductor")
+                   R14
+Select a coil or a solid conductor
+                             R14                                         Bar110
+Select a region "coil" (or "solid conductor")
+                   R15
+Select a coil or a solid conductor
+                             R15                                         Bar111
+Select a region "coil" (or "solid conductor")
+                   R16
+Select a coil or a solid conductor
+                             R16                                         Bar112
+Select a region "coil" (or "solid conductor")
+                   R17
+Select a coil or a solid conductor
+                             R17                                         Bar113
+Select a region "coil" (or "solid conductor")
+                   R18
+Select a coil or a solid conductor
+                             R18                                         Bar114
+Select a region "coil" (or "solid conductor")
+                   R19
+Select a coil or a solid conductor
+                             R19                                         Bar115
+Select a region "coil" (or "solid conductor")
+                   R20
+Select a coil or a solid conductor
+                             R20                                         Bar116
+Select a region "coil" (or "solid conductor")
+Select a region "coil" (or "solid conductor")
+                   A
+Select a coil or a solid conductor
+*** A "coil" region CANNOT have a resistivity ***
+Select a region "coil" (or "solid conductor")
+                   X
+Select a coil or a solid conductor
+*** A "coil" region CANNOT have a resistivity ***
+Select a region "coil" (or "solid conductor")
+                   B
+Select a coil or a solid conductor
+*** A "coil" region CANNOT have a resistivity ***
+Select a region "coil" (or "solid conductor")
+                   Y
+Select a coil or a solid conductor
+*** A "coil" region CANNOT have a resistivity ***
+Select a region "coil" (or "solid conductor")
+                   C
+Select a coil or a solid conductor
+*** A "coil" region CANNOT have a resistivity ***
+Select a region "coil" (or "solid conductor")
+                   Z
+Select a coil or a solid conductor
+*** A "coil" region CANNOT have a resistivity ***
+Select a region "coil" (or "solid conductor")
 Do you really want to stop without saving current data?
   YES
  
-Numerical memory size reached 1855 kbytes
-Character memory size reached 62 kbytes
+Numerical memory size reached 1525 kbytes
+Character memory size reached 73 kbytes
  
 Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
 Problem name ?
-TEST2
+TEST_CURENT
  
 Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
  
-Name of initial "properties" ?
-ANALIZA_DINAMICA
-*** File TEST2 already exists ***
+Name of "geometry" ?
+MASINA_ASINCRONA
+*** File TEST_CURENT already exists ***
 Do you want to continue ?
   YES
  
-Working space type?
-Actual depth (on Z axis) of the object (mm)
+Type of domain ?
+Actual depth (on Z axis) of the object ? (mm)
   98.8
+Problem type
 Source frequency (Hz) ?
   40
 Selected region ?
-  R1
+  AX
 Select a material
-  FLU_ALUMINIUM
+  FLU_STEEL_1010_XC10
 What do you want to do ?
-iso_RO depends on temperature
-Working temperature (degrees Celsius )
-  110
+Equivalent B-H curve. Select the computation method
+Do you want to display the curves ?
+  NO
 Model of source
-The region is a solid conductor
-So the source is the voltage applied to the length
-NOTE :be sure to enter the proper polarity of voltage
- I = - sigma grad(V) : current >0 if voltage is negative
- 
-Value ( Volt rms )
-  0
 Selected region ?
   JUG_ROTORIC
 Select a material
@@ -131,10 +358,73 @@ Equivalent B-H curve. Select the computation method
 Do you want to display the curves ?
   NO
 Model of source
+Selected region ?
+Selected region ?
+  R1
+Selected region ?
+  R2
+Selected region ?
+  R3
+Selected region ?
+  R4
+Selected region ?
+  R5
+Selected region ?
+  R6
+Selected region ?
+  R7
+Selected region ?
+  R8
+Selected region ?
+  R9
+Selected region ?
+  R10
+Selected region ?
+  R11
+Selected region ?
+  R12
+Selected region ?
+  R13
+Selected region ?
+  R14
+Selected region ?
+  R15
+Selected region ?
+  R16
+Selected region ?
+  R17
+Selected region ?
+  R18
+Selected region ?
+  R19
+Selected region ?
+  R20
+Selected region ?
+Select a material
+  FLU_ALUMINIUM
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
+  INTREFIER
+Select a material
+Model of source
+Selected region ?
+  A
+Select a material
+  FLU_COPPER
+What do you want to do ?
+iso_RO depends on temperature
+Working temperature (degrees Celsius )
+  110
+Model of source
+Selected region ?
 Do you really want to stop without saving current data?
   YES
  
-Numerical memory size reached 1843 kbytes
+Numerical memory size reached 1327 kbytes
 Character memory size reached 62 kbytes
  
 Working directory \Users\tuten_o3qdme6\Documents\flux-motor-asincron
